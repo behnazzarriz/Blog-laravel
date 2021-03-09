@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/popper.js": "/js/popper.js",
+    "/css/all-admin.css": "/css/all-admin.css",
+    "/js/all-admin.js": "/js/all-admin.js",
+    "/js/jquery-3.5.1.min.js": "/js/jquery-3.5.1.min.js",
+    "/css/dropzone.css": "/css/dropzone.css",
+    "/js/dropzone.js": "/js/dropzone.js",
+    "/css/all-frontend.css": "/css/all-frontend.css",
+    "/js/all-frontend.js": "/js/all-frontend.js",
+    "/js/comment.js": "/js/comment.js"
+}

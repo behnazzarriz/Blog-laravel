@@ -1,0 +1,22 @@
+@font-face {
+    font-family:'Abel-Regular';
+url('../font/Abel-Regular.ttf') format('ttf')
+url('../font/Abel-Regular.eot?#iefix') format('eot')
+url('../font/Abel-Regular.otf') format('otf')
+}
+
+body{
+    font-family: Abel-Regular!important;
+}
+a{
+    cursor: pointer;
+
+
+}
+ul li{
+    list-style: none!important;
+}
+.table td{
+    vertical-align: middle;
+}
+
